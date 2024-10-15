@@ -16,7 +16,7 @@ const Footer = () => {
                     <RiInstagramFill />
                 </a>
             </div>
-            <p className="text-sm">&copy; 2024 César Space, All rights reserved.</p>
+            <p className="text-sm">&copy; 2025 César Space, All rights reserved.</p>
         </div>
     </footer>
   )
